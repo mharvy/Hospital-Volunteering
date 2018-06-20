@@ -7,6 +7,9 @@ import numpy as np
 #import threading  -> Hope to add multithreading for faster completion
 
 
+# This ended up being the testing ground for many of the actually important functions and classes in other files
+
+
 class CSVAnalyzer:
 
     def __init__(self, in_file, out_file, vars):
